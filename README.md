@@ -1,4 +1,6 @@
-# unisinos-pad
+# unisinos-hpc
+
+Academic works of the unisinos high performance computing (hpc) course
 
 ## install (macosx)
 ```
